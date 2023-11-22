@@ -1,0 +1,12 @@
+{
+  "transactions": "Transactions",
+  "activeUsersHint": "Number of unique wallets interacting with the coin contract",
+  "marketCapHint": "Market capitalization of the token in circulation. Market cap = current price * circulating supply",
+  "transactionsHint": "Number of coin transfers",
+  "onChainVolumeHint": "Volume of coin transfers and swaps",
+  "liquidityHint": "Total volume of two tokens in the liquidity pool",
+  "dexVolumeHint": "Coin trading volume on DEX exchanges",
+  "holdersHint": "Кол-во владельцев коина",
+  "dexTradersHint": "Number of traders who buy or sell this coin on DEX exchanges",
+  "circSupplyHint": "The number of coins circulating on the market and in public hands. Circulating supply = Total supply - locked coins that cannot influence the supply of the coin on the market"
+}
