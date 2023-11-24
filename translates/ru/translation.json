@@ -1,7 +1,7 @@
 {
   "transactions": "Тры",
   "activeUsersHint": "тест",
-  "marketCapHint": "Market capitalization of the token in circulation. Market cap = current price * circulating supply",
+  "marketCapHint": "Тест",
   "transactionsHint": "Number of coin transfers",
   "onChainVolumeHint": "Volume of coin transfers and swaps",
   "liquidityHint": "Total volume of two tokens in the liquidity pool",
