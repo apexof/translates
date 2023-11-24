@@ -1,6 +1,6 @@
 {
   "transactions": "Тры",
-  "activeUsersHint": "Number of unique wallets interacting with the coin contract",
+  "activeUsersHint": "тест",
   "marketCapHint": "Market capitalization of the token in circulation. Market cap = current price * circulating supply",
   "transactionsHint": "Number of coin transfers",
   "onChainVolumeHint": "Volume of coin transfers and swaps",
